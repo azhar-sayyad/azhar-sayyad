@@ -3,7 +3,7 @@
 
 
 <!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Azhar221&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=azhar-sayyad&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </p> -->
 <hr />
 <br />
@@ -12,8 +12,16 @@
 ## 📈 Statistics
 
 <p align="center">	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhar221&bg_color=0f2d3d&color=1cadfb&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Azhar221&theme=tokyonight&hide_border=true&background=0F2D3D"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azhar-sayyad&bg_color=0f2d3d&color=1cadfb&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=azhar-sayyad&theme=tokyonight&hide_border=true&background=0F2D3D"/>
+</p>
+<hr />
+<br />
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contributions" />
 </p>
 <hr />
 <br />
