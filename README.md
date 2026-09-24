@@ -6,19 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=800&color=1CADFB&center=true&vCenter=true&width=650&lines=MERN+%7C+Java+Spring+Boot+%7C+React+%7C+Next.js;AI+Enthusiast+(Python%2C+LangChain%2C+LLMs);Passionate+about+clean+code+%26+scalable+systems)](https://git.io/typing-svg)
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=azhar-sayyad.azhar-sayyad)](https://github.com/azhar-sayyad)
-
 </div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎯 Focused on **Full-Stack Development** and **AI-powered applications**
-- 🧠 Practicing **Data Structures & Algorithms** regularly
-- 🚀 Building products with **React, Next.js, Node.js & Java Spring Boot**
-- 🤖 Exploring **LangChain, LLMs** and the modern AI tooling ecosystem
-- 📬 How to reach me: **[Sayyad Azhar](https://www.linkedin.com/in/sayyad-azhar)**
 
 ---
 
@@ -66,29 +54,6 @@
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/azhar-sayyad/waqtify">
-    <img align="center" src="https://gh-readme-stats.vercel.app/api/pin/?username=azhar-sayyad&repo=waqtify&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/azhar-sayyad/pixel-insight-ai">
-    <img align="center" src="https://gh-readme-stats.vercel.app/api/pin/?username=azhar-sayyad&repo=pixel-insight-ai&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/azhar-sayyad/TaazaNews">
-    <img align="center" src="https://gh-readme-stats.vercel.app/api/pin/?username=azhar-sayyad&repo=TaazaNews&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/azhar-sayyad/arabian-mart">
-    <img align="center" src="https://gh-readme-stats.vercel.app/api/pin/?username=azhar-sayyad&repo=arabian-mart&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <b>➡️ <a href="https://github.com/azhar-sayyad?tab=repositories">View all my repositories</a></b>
 </p>
 
 ---
